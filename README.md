@@ -5,8 +5,8 @@ Micro service that parses your request header and tells you about your machine's
 Clone the repo:
 
 ```bash
-$ git clone
-$ cd
+$ git clone https://github.com/BrianLusina/headermicroservice.git
+$ cd headermicroservice
 $ npm install
 # or using yarn
 $ yarn install
